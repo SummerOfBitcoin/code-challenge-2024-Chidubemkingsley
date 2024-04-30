@@ -1,0 +1,9 @@
+## Python Packages For Elliptic Curve Crytography
+
+pycryptodome(pip install sec256k1 pycryptodome)
+
+## Python3 Installation
+
+For Ubuntu(Linux)
+
+python3(sudo apt update && sudo apt install python3)
